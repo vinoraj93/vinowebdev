@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vinoraj93/vinowebdev/static/css/main.902de37c.chunk.css",
+    "main.js": "/vinoraj93/vinowebdev/static/js/main.6e209594.chunk.js",
+    "main.js.map": "/vinoraj93/vinowebdev/static/js/main.6e209594.chunk.js.map",
+    "runtime-main.js": "/vinoraj93/vinowebdev/static/js/runtime-main.2c3a5cc3.js",
+    "runtime-main.js.map": "/vinoraj93/vinowebdev/static/js/runtime-main.2c3a5cc3.js.map",
+    "static/js/2.9bdb9741.chunk.js": "/vinoraj93/vinowebdev/static/js/2.9bdb9741.chunk.js",
+    "static/js/2.9bdb9741.chunk.js.map": "/vinoraj93/vinowebdev/static/js/2.9bdb9741.chunk.js.map",
+    "static/js/3.cfb2b795.chunk.js": "/vinoraj93/vinowebdev/static/js/3.cfb2b795.chunk.js",
+    "static/js/3.cfb2b795.chunk.js.map": "/vinoraj93/vinowebdev/static/js/3.cfb2b795.chunk.js.map",
+    "index.html": "/vinoraj93/vinowebdev/index.html",
+    "static/css/main.902de37c.chunk.css.map": "/vinoraj93/vinowebdev/static/css/main.902de37c.chunk.css.map",
+    "static/js/2.9bdb9741.chunk.js.LICENSE.txt": "/vinoraj93/vinowebdev/static/js/2.9bdb9741.chunk.js.LICENSE.txt",
+    "static/media/me.098b0bd9.png": "/vinoraj93/vinowebdev/static/media/me.098b0bd9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c3a5cc3.js",
+    "static/js/2.9bdb9741.chunk.js",
+    "static/css/main.902de37c.chunk.css",
+    "static/js/main.6e209594.chunk.js"
+  ]
+}
